@@ -51,4 +51,5 @@ public class AppConfig {
     public AppInfo prodInfo() {
         return new AppInfo("App PROD", "1.0");
     }
+    
 }
